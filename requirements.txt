@@ -1,0 +1,26 @@
+# Core
+langchain
+langchain-community
+langchain-anthropic
+langchain_openai
+
+# vector store
+langchain-postgres
+
+
+# Document loaders
+pypdf
+unstructured
+docx2txt
+
+# Optional but common
+langchain-text-splitters
+tiktoken
+
+#additional
+cryptography>=3.1
+python-dotenv
+
+#embeddings
+langchain-huggingface 
+sentence-transformers
